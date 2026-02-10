@@ -1,13 +1,9 @@
-package web.crawler;
-
 import java.io.IOException;
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.HashSet;
 import java.util.Scanner;
 
-public class QuickGoogle {
+public class QuickBrowse {
 
   public static void main(String[] args) {
 
