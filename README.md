@@ -13,6 +13,7 @@ EXECUTION:
 
 
 EXAMPLES:
+
 ```java QuickBrowse chocolate cake recipe```
 
 ```java QuickBrowse "how to center a div"```
