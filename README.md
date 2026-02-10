@@ -9,11 +9,11 @@ COMPILATION:
 ```javac QuickBrowse.java```
 
 EXECUTION:
-```java QuickBrowse insert-search-here```
+```java QuickBrowse.java insert-search-here```
 
 
 EXAMPLES:
 
-```java QuickBrowse chocolate cake recipe```
+```java QuickBrowse.java chocolate cake recipe```
 
-```java QuickBrowse "how to center a div"```
+```java QuickBrowse.java "how to center a div"```
