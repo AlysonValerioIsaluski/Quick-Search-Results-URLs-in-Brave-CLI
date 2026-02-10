@@ -4,6 +4,7 @@ CLI java application that searches the web using the provided text as input usin
 JDK 21 required. No external libraries or frameworks needed.
 
 While in the directory where QuickBrowse.java is, in the terminal:
+
 COMPILATION:
 ```javac QuickBrowse.java```
 
